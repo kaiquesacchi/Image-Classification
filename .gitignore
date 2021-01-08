@@ -1,0 +1,9 @@
+.vscode/
+env/
+
+images_raw/
+images_formatted/
+
+wandb/
+.ipynb_checkpoints/
+model/
